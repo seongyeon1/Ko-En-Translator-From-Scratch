@@ -1,4 +1,4 @@
-# 한국어 챗봇 모델링
+# 한영 번역기 모델링
 
 ## 개요
 > **아이펠 GoingDeeper NLP Project** <br/> 
